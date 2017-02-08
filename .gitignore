@@ -1,0 +1,8 @@
+/dist
+/node_modules
+/src/bower_components
+/.tmp
+
+jscpd.json
+
+/src/assets/images/icons/.svgsus
